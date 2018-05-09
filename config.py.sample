@@ -1,0 +1,4 @@
+# Config Variables for tik-prov scripts
+# Author Trevor Steyn <trevor@webon.co.za>
+
+CFG_EMPTY     = 'Nothing'
